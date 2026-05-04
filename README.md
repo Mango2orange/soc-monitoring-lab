@@ -10,6 +10,40 @@ soc-monitoring-lab  🔧 What to include: Log collection Alert creation Basic th
 
 
 
+# SOC Monitoring Lab
+
+## 📌 Overview
+
+This project demonstrates log monitoring and alerting using SIEM tools.
+
+## 🧰 Tools Used
+
+* Splunk / Wazuh
+
+## 📥 Log Sources
+
+* Windows Event Logs
+* Firewall Logs
+
+## 🚨 Alerts Created
+
+| Alert Name    | Description                    |
+| ------------- | ------------------------------ |
+| Failed Login  | Multiple failed login attempts |
+| Suspicious IP | Unknown IP accessing system    |
+
+## 📊 Dashboard
+
+(Add screenshots of SIEM dashboard)
+
+## 📚 Key Learnings
+
+* Importance of log analysis
+* Early threat detection
+
+
+
+
 👉 Add:
 
 Screenshots
