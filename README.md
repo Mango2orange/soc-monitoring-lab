@@ -7,3 +7,12 @@ soc-monitoring-lab  🔧 What to include: Log collection Alert creation Basic th
 4. Configuration Steps
 5. Output / Results
 6. Key Learnings
+
+
+
+👉 Add:
+
+Screenshots
+Diagrams
+Real explanations
+Troubleshooting steps
